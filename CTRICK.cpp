@@ -1,6 +1,6 @@
 /*
 Algo: Binary Indexed Tree
-Complexity: N*LogN
+Complexity: N*LogN*LogN
 */
 
 #include <cstdio>
